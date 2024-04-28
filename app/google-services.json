@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183272759531",
+    "project_id": "sneackers-f4b1b",
+    "storage_bucket": "sneackers-f4b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183272759531:android:8bac545b750ce2a852deae",
+        "android_client_info": {
+          "package_name": "com.example.sneackers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKyjZuPHOdewCyBko7VQOo3PiHIQyznTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
